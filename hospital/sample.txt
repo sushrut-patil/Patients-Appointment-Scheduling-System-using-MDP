@@ -1,0 +1,11 @@
+1,heart attack
+2,Fever, Sore throat
+3,Cough, Fatigue, Headache
+4,Shortness of breath, Loss of taste or smell
+5,Sore throat, Body aches
+6,Fever, Fatigue, Loss of taste or smell
+7,Cough, Headache
+8,Fatigue, Body aches
+9,Sore throat, Headache
+10,Fever, Shortness of breath
+11,Cough, Loss of taste or smell
